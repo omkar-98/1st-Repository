@@ -2,3 +2,5 @@
 i am a fix bug file which will be added to fix the bug.
 
 fixed another bug.
+
+third bug fixed.
