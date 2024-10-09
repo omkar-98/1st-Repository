@@ -8,3 +8,6 @@ third bug fixed.
 fourth bug fixed.
 
 fifth bug occured.
+
+bug succesfully fixed.
+
